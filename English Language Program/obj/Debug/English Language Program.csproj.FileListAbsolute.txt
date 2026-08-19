@@ -1,0 +1,68 @@
+C:\Users\JAK\Desktop\English Language Program\English Language Program\bin\Debug\English Language Program.exe.config
+C:\Users\JAK\Desktop\English Language Program\English Language Program\bin\Debug\English Language Program.exe
+C:\Users\JAK\Desktop\English Language Program\English Language Program\bin\Debug\English Language Program.pdb
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English Language Program.csprojAssemblyReference.cache
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Create.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.First.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Enter.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.input.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Properties.Resources.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Test.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.translate.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Words.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.GenerateResource.cache
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.CoreCompileInputs.cache
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English Language Program.exe
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English Language Program.pdb
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Export.resources
+C:\Users\JAK\Desktop\English Language Program\English Language Program\obj\Debug\English_Language_Program.Import.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\bin\Debug\English Language Program.exe.config
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English Language Program.exe
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English Language Program.pdb
+D:\ELP\مجلد جديد\English Language Program\English Language Program\bin\Debug\English Language Program.exe
+D:\ELP\مجلد جديد\English Language Program\English Language Program\bin\Debug\English Language Program.pdb
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English Language Program.csprojResolveAssemblyReference.cache
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Create.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Export.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.First.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Enter.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Import.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.input.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Properties.Resources.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Test.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.translate.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English_Language_Program.Words.resources
+D:\ELP\مجلد جديد\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.GenerateResource.Cache
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English Language Program.csprojAssemblyReference.cache
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.Create.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.Export.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.First.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.Enter.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.Import.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.input.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.Test.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.translate.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English_Language_Program.Words.resources
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.GenerateResource.cache
+E:\MY PROJECT ON C#\English Language Program\English Language Program\obj\Debug\English Language Program.pdb
+E:\English Language Program\English Language Program\bin\Debug\English Language Program.exe
+E:\English Language Program\English Language Program\obj\Debug\English Language Program.exe
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Create.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Export.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.First.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Enter.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Import.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.input.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Properties.Resources.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Test.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.translate.resources
+E:\English Language Program\English Language Program\obj\Debug\English_Language_Program.Words.resources
+E:\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.GenerateResource.cache
+E:\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.CoreCompileInputs.cache
+E:\English Language Program\English Language Program\obj\Debug\English Language Program.csprojAssemblyReference.cache
+E:\English Language Program\English Language Program\bin\Debug\English Language Program.exe.config
+E:\English Language Program\English Language Program\bin\Debug\English Language Program.pdb
+E:\English Language Program\English Language Program\bin\Debug\Xceed.Document.NET.dll
+E:\English Language Program\English Language Program\bin\Debug\Xceed.Words.NET.dll
+E:\English Language Program\English Language Program\obj\Debug\English Language Program.csproj.CopyComplete
+E:\English Language Program\English Language Program\obj\Debug\English Language Program.pdb
