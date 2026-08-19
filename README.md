@@ -1,4 +1,4 @@
-# ELP Language Trainer
+# ELP Language Trainer | C#
 
 A desktop language-learning application designed to help students learn and practice vocabulary in any language they choose.
 
